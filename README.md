@@ -8,6 +8,8 @@ DESTINATION_FOLDER_NAME : Dest folder relative to project base directory.
 
 PATH_TO_CRAWL : Directory to crawl.
 
+ADD_DIVIDER_PAGE : If add divider page(0/1). Convinient for printing purposes.
+
 ## USAGE 
 
-python main.py   DESTINATION_FOLDER_NAME   PATH_TO_CRAWL
+python main.py   DESTINATION_FOLDER_NAME   PATH_TO_CRAWL    ADD_DIVIDER_PAGE
