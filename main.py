@@ -8,4 +8,3 @@ if __name__ == "__main__":
         spider = PDFSpider(params[1], params[2])
     else:
         print("Enter Module Name and Folder Directory")
-
