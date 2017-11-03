@@ -8,7 +8,7 @@ DESTINATION_FOLDER_NAME : Dest folder relative to project base directory.
 
 PATH_TO_CRAWL : Directory to crawl.
 
-ADD_DIVIDER_PAGE : If add divider page(0/1). Convinient for printing purposes.
+ADD_DIVIDER_PAGE : If add divider page(0/1). convenient for printing purposes.
 
 ## USAGE 
 
