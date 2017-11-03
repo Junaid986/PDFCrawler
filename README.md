@@ -10,4 +10,4 @@ PATH_TO_CRAWL : Directory to crawl.
 
 ## USAGE 
 
-python main.py DESTINATION_FOLDER_NAME PATH_TO_CRAWL
+python main.py   DESTINATION_FOLDER_NAME   PATH_TO_CRAWL
